@@ -74,4 +74,81 @@
     border: none;
     margin-top: 32px;
 }
+
 /* nav & banner related style end here */
+/* Web Development related style start here */
+.main {
+    max-width: 1083px;
+    margin: 0 auto;
+    margin-bottom: 90px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+
+.main-container {
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    padding: 92px 80px;
+}
+
+.main-container>h3 {
+    color: #0D1321;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.main-container>p {
+    color: #0D1321;
+    text-align: center;
+    font-size: 15px;
+    margin: 24px 0px 48px 0px;
+}
+
+.web-developer-level-container {
+    border-radius: 16px;
+    background: linear-gradient(90deg, #FFF 0%, rgba(255, 255, 255, 0.00) 100%);
+}
+
+.web-developer-level {
+    display: flex;
+    justify-content: space-between;
+    padding: 48px 45px;
+}
+
+.web-developer-level-content {
+    width: 453px;
+}
+
+.web-developer-level-content h3 {
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 22px;
+    font-weight: 700;
+    width: 370px;
+}
+
+.web-developer-level-content>p {
+    margin: 16px 0 32px 0;
+    color: #0D1321;
+    font-size: 15px;
+}
+
+.learn-more-wd {
+    color: #0D1321;
+    font-size: 19px;
+    font-weight: 600;
+    border: 1px solid #0D1321;
+    opacity: 0.8;
+    padding: 12px 18px;
+    width: 162px;
+}
+
+.wd-skill-2 {
+    margin: 32px 0;
+}
+
+.wd-skill-2 h3 {
+    width: 453px;
+}
+
+/* Web Development related style End here */
