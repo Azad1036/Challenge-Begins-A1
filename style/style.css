@@ -80,13 +80,11 @@
 .main {
     max-width: 1083px;
     margin: 0 auto;
-    border-radius: 16px;
-    background: rgba(13, 19, 33, 0.02);
 }
 
 .main-container {
-    border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
+    border-radius: 16px;
     padding: 92px 80px;
     margin-bottom: 90px;
 }
@@ -170,7 +168,6 @@
 
 .my-inspiration-img {
     padding: 32px 30px;
-    margin-bottom: 151px;
 }
 
 .my-inspiration-img img {
@@ -180,3 +177,118 @@
 }
 
 /* My Inspiration related Style End Here */
+/*My Current & Next Target related Style Start Here  */
+.my-current-target-container {
+    margin-top: 150px;
+    margin-bottom: 111px;
+}
+
+.my-current-target-content h1 {
+    color: #0D1321;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.my-current-target-content p {
+    color: #0D1321;
+    text-align: center;
+    font-size: 15px;
+    margin: 24px auto 48px auto;
+    width: 810px;
+}
+
+.my-current-target-learning {
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.my-current-target {
+    padding: 40px 38px;
+}
+
+.my-current-target h3 {
+    color: #0D1321;
+    font-size: 22px;
+    font-weight: 800;
+    padding-top: 24px;
+}
+
+.my-current-target p {
+    color: #0D1321;
+    font-size: 15px;
+    padding-top: 8px;
+}
+
+.my-current-target h4 {
+    color: #0D1321;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 24px;
+}
+
+.my-current-target-learning-container {
+    display: flex;
+    gap: 22px;
+}
+
+.css-learn {
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.js-learn {
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.my-next-target-container h1 {
+    color: #0D1321;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.my-next-target-container p {
+    color: #0D1321;
+    text-align: center;
+    font-size: 15px;
+    margin: 24px auto 48px auto;
+    width: 810px;
+}
+
+.my-next-learning-target-container {
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+}
+
+.my-next-learning-target {
+    padding: 40px 38px;
+    display: flex;
+    gap: 22px;
+}
+
+.my-next-learning-target-content h3 {
+    color: #0D1321;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.my-next-learning-target-content p {
+    color: #0D1321;
+    font-size: 15px;
+    padding-top: 8px;
+}
+
+.my-next-learning-target-content h4 {
+    color: #0D1321;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    padding-top: 24px;
+}
+
+.node-js {
+    margin: 24px 0px;
+}
+/*My Current & Next Target related Style End Here  */
