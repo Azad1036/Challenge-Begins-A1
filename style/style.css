@@ -35,7 +35,7 @@
 }
 
 .banner-img-container {
-    background-image: url("/images/Hero-bg.png");
+    background-image: url("../images/Hero-bg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -295,7 +295,7 @@
 /*My Current & Next Target related Style End Here  */
 /* Footer related Style start Here */
 .support-me-container {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url("/images/handshake.jpg") lightgray 50%;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), url("../images/handshake.jpg") lightgray 50%;
     border-radius: 16px;
     background-repeat: no-repeat;
     background-position: center;
